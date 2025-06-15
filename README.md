@@ -1,55 +1,10 @@
-# 🧑🏻‍🌾 Farm2You
-"Farm2You" 백엔드 개발 저장소 입니다.
-
-### 🧑🏻‍💻 Developers 
-
-|                                                         BE                                                         |                                                               BE                                                               |
-|:------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|
-| [<img src="https://avatars.githubusercontent.com/bum0w0" width="100px;" alt="bum0w0"/>](https://github.com/bum0w0) | [<img src="https://avatars.githubusercontent.com/lhimjy" width="100px;" alt="lhimjy"/>](https://github.com/lhimjy) |
-|                                                      **김진범**                                                       |                                                            **임준용**                                                             |
-
-
-###  📁 Development Environment
-
-| IDE             | IntelliJ IDEA    |
-|-----------------|------------------|
-| **Language**    | Java 17          |
-| **Framework**   | SpringBoot 3.4.5 |
-| **Build Tools** | Gradle 8.13      |
-| **DataBase**    | MySQL 8.4.4  |
-
-
-### 🏷️ Commit Convention
-
-|태그 이름|태그 설명|
-|:---:|:---:|
-|Feat|새로운 기능 추가|
-|Fix|버그 수정|
-|Build|빌드 관련 파일 수정|
-|Design|CSS를 포함 UI 디자인 변경|
-|Docs|문서(문서 추가, 수정, 삭제)|
-|Style|스타일(코드 형식, 세미콜론 추가: 비즈니스 로직에 변경 없는 경우)|
-|Refactor|코드 리팩토링|
-|Comment|필요한 주석 추가 및 변경|
-|Test|테스트(테스트 코드 추가, 수정, 삭제: 비즈니스 로직에 변경 없는 경우)|
-|Rename|파일, 폴더명 이름 수정|
-|Remove|파일, 폴더 삭제|
-
-#### Example of Subject
-
-> [Feat] 회원가입 API 구현
-
-### 🎋 Branch Convention
-- **main**: 배포용 브랜치 (항상 안정적인 상태 유지)
-- **develop**: 통합 개발 브랜치 (다음 배포를 준비)
-- **feature/**: 기능 개발 및 이슈 해결 브랜치 (작업 단위)
-#### Branch Flow
- ```
-Main Branch
-  ▲
-  └── Develop Branch ── 테스트 완료 후 병합 
-                              ▲
-                              └── Feature Branch ── 작업 완료 후 병합 
-                                          └── 새로운 기능 추가
-
- ```
+![스크린샷 2025-06-15 오후 7 04 18](https://github.com/user-attachments/assets/b5a8334c-18f4-48f4-be47-7907cc199ac8)
+![스크린샷 2025-06-15 오후 7 04 23](https://github.com/user-attachments/assets/e1ea4798-1fda-4db4-a22e-b1de697f19ca)
+![스크린샷 2025-06-15 오후 7 04 33](https://github.com/user-attachments/assets/dbbfedcd-5ba8-4a09-8cfe-f173ad76e8f2)
+![스크린샷 2025-06-15 오후 7 04 48](https://github.com/user-attachments/assets/3ac15bdb-04d5-4ac7-9da2-82b56bc6e9af)
+![스크린샷 2025-06-15 오후 7 04 52](https://github.com/user-attachments/assets/4e730cf2-7bd1-4f2f-bde9-2d7cb1aa5ef8)
+![스크린샷 2025-06-15 오후 7 04 58](https://github.com/user-attachments/assets/991662a2-0a75-4d4c-9914-70600b9858bb)
+![스크린샷 2025-06-15 오후 7 05 00](https://github.com/user-attachments/assets/3a7dbe07-457d-4476-bf3a-e5227014f7f6)
+![스크린샷 2025-06-15 오후 7 05 02](https://github.com/user-attachments/assets/54131bbd-209d-406b-97b2-c1da9e41ed53)
+![스크린샷 2025-06-15 오후 7 05 04](https://github.com/user-attachments/assets/5bb92939-a2e7-4ce4-a230-9fe441e676f6)
+![스크린샷 2025-06-15 오후 7 05 08](https://github.com/user-attachments/assets/c43bf2a4-5a1b-468b-982b-74745c04842b)
